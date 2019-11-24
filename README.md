@@ -23,3 +23,9 @@ Usage of ./rahasya:
 ```
 ./rahasya -f encryptedtext -p hello -t dec
 ```
+
+## Requirements:
+
+```
+go version go1.12.1 windows/amd64
+```
