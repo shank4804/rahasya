@@ -1,4 +1,4 @@
-# rahasya
+# rahasya (रहस्य)
 A simple Go binary used to encrypt / decrypt file using password.
 
 ## Usage:
